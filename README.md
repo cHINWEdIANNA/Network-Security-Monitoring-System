@@ -39,8 +39,8 @@ The **Network Security Monitoring System** is a tool designed to monitor and ana
 
 ### Configuration
 Configuration files are located in the config/ directory. You can adjust settings like:
-** 1. Snort/Suricata Configuration:** Adjust detection rules
-** 2. Alert Thresholds:** Set the thresholds for packet anomalies
+**1. Snort/Suricata Configuration:** Adjust detection rules
+**2. Alert Thresholds:** Set the thresholds for packet anomalies
 
 ### Conrtibuting
 I welcome contribution to improve the system. Here's how you can contribute:
